@@ -1,6 +1,9 @@
 # 👋 Hi there, I'm Gabriel!
+
 <div align="center">
+  
 [![Profile Views](https://komarev.com/ghpvc/?username=alkor-istar&color=blue&style=flat-square&label=Profile+Views)](https://github.com/alkor-istar)
+
 </div>
 
 ## 🚀 About Me
