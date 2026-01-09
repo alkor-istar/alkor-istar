@@ -52,7 +52,7 @@ Feel free to connect with me on various platforms:
 
 <div align="center">
   
-💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+💡 *"Hardware eventually fails. Software eventually works."*
 
 </div>
 
