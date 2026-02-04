@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building innovative solutions and contributing to open-source projects. I enjoy tackling challenging problems and continuously learning new technologies.
+I'm a passionate developer who loves building innovative solutions and contributing to open-source projects. I enjoy tackling challenging problems and continuously learning new technologies. Check my portfolio [here](https://alkor-istar.github.io/)!
 
 ## 🛠️ Skills & Technologies
 
@@ -41,6 +41,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 - 🌱 Continuously learning and improving my skills
 - 👯 Open to collaboration on innovative projects
 - 💬 Ask me about software development, cloud technologies, and best practices
+
 
 ## 📫 How to Reach Me
 
