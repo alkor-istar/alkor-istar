@@ -46,7 +46,7 @@ I'm a passionate developer who loves building innovative solutions and contribut
 
 Feel free to connect with me on various platforms:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-rodriguez-b47b0920b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rfgabriel)
 
 ---
 
